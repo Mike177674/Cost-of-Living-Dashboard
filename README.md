@@ -1,6 +1,9 @@
 # Cost-of-Living-Dashboard
 Uses Data from Missouri Economic Research and Information Center to display relative affordability indices between American States. 
 
+# Link to Dashboard
+https://michal1.shinyapps.io/Cost_of_Living_Dashboard/
+
 # Data Source
 I found the dataset on Kaggle under the name “Cost of living by State in USA - MERIC“  published by Karol Łukaszczyk. The link to the data is https://www.kaggle.com/datasets/lukkardata/cost-of-living-missouri-economic-research?resource=download.  This data was originally compiled by the Missouri Economic Research and Information Center (MERIC).  The updated data can be accessed at https://meric.mo.gov/data/cost-living-data-series. 
 # Cleaning
